@@ -35,8 +35,10 @@
 
 ### Javascript
 
+* [Podcast] - [Devschacht Podcast](https://soundcloud.com/devschacht)
 * [Podcast] - [Frontflip Podcast](http://frontflip.me)
 * [Podcast] - [RadioJS Podcast](http://radiojs.ru)
+* [Podcast] - [Webstandards Podcast](https://soundcloud.com/web-standards)
 * [Screencast] - [Javascript для начинающих](http://www.magisters.org/education/course/js-for-beginners)
 
 
@@ -54,13 +56,7 @@
 
 * [Podcast] - [RWPod Podcast](http://rwpod.com)
 * [Podcast] - [RubyNoName Podcast](http://rubynoname.ru)
-* [Screencast] - [Ruby](http://ruby.hasbrains.org) - hasBrains
 * [Screencast] - [RubySchool (Ruby, Rails)](http://rubyschool.us) - Роман Пушкин
-
-
-#### Rails
-
-* [Screencast] - [Rails](http://rails.hasbrains.org) - hasBrains
 
 
 ### Webpack

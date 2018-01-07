@@ -29,6 +29,7 @@
 * [PHP](#php)
 * [PostgreSQL](#postgresql)
 * [Python](#python)
+  * [Django](#django)
 * [R](#r)
 * [Reverse engineering](#reverse-engineering)
 * [Ruby](#ruby)
@@ -47,8 +48,9 @@
 
 * [E-maxx.ru: Сборник алгоритмов с примерами на C++](http://e-maxx.ru/upload/e-maxx_algo.pdf) (PDF)
 * [Scrum и XP: заметки с передовой](http://scrum.org.ua/wp-content/uploads/2008/12/scrum_xp-from-the-trenches-rus-final.pdf) (PDF)
-* [Занимательное программирование. Самоучитель](http://padabum.com/x.php?id=35055) - Мозговой М.В.
-* [Эффективные алгоритмы и сложность вычислений](http://discopal.ispras.ru/Ru.book-advanced-algorithms.htm) - Н. Н. Кузюрин, С. А. Фомин
+* [Занимательное программирование. Самоучитель](http://padabum.com/x.php?id=35055) - Мозговой М.В. (PDF)
+* [Программирование: введение в профессию](http://stolyarov.info/books/programming_intro) - Столяров Андрей Викторович (:construction:) (PDF)
+* [Эффективные алгоритмы и сложность вычислений](http://discopal.ispras.ru/Ru.book-advanced-algorithms.htm) - Кузюрин Н.Н., Фомин С.А.
 
 
 #### Работа с сетью
@@ -78,6 +80,7 @@
 * [Ассемблер для чайников](http://av-assembler.ru/asm/afd/assembler-for-dummy.htm)
 * [Микропроцессоры и вычислительные комплексы семейства "Эльбрус"](http://www.mcst.ru/doc/book_121130.pdf) (PDF)
 * [Программирование на языке ассемблера NASM для ОС Unix](http://www.stolyarov.info/books/pdf/nasm_unix.pdf) (PDF)
+* [Цифровая схемотехника и архитектура компьютера](https://community.imgtec.com/downloads/digital-design-and-computer-architecture-russian-edition-second-edition) - Дэвид Харрис, Сара Харрис *(требуется учетная запись)*
 
 
 ### Bash
@@ -101,13 +104,13 @@
 
 ### Clojure
 
-* [Введение в Clojure](http://alexott.net/ru/clojure/clojure-intro/)
+* [Введение в Clojure](http://alexott.net/ru/clojure/clojure-intro/) - Алексей Отт
 
 
 ### CoffeeScript
 
 * [The Little Book on CoffeeScript](https://github.com/andrew--r/the-little-book-on-coffeescript) - перевод Андрея Романова
-* [Документация CoffeeScript](http://cidocs.ru/coffeescript/)
+* [Документация CoffeeScript](http://cidocs.ru/coffeescript/) - Jeremy Ashkenas
 
 
 ### Java
@@ -130,13 +133,13 @@
 
 #### Node.js
 
-* [Node.js для начинающих](http://nodebeginner.ru)
+* [Node.js для начинающих](http://nodebeginner.ru) - Manuel Kiessling
 
 
 ### Git
 
 * [Pro Git](http://git-scm.com/book/ru/v2)
-* [Волшебство Git](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru/)
+* [Волшебство Git](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru/) - Ben Lynn
 * [Простое руководство по работе с Git](http://rogerdudler.github.io/git-guide/index.ru.html)
 
 
@@ -175,7 +178,7 @@
 ### NoSQL
 
 * [Маленькая книга о MongoDB](http://www.pvsm.ru/download/mongodb-ru.pdf) (PDF)
-* [Маленькая книга о Redis](https://github.com/kondratovich/the-little-redis-book/blob/master/ru/redis.md)
+* [Маленькая книга о Redis](https://github.com/kondratovich/the-little-redis-book/blob/master/ru/redis.md) - Карл Сегуин
 
 
 ### Objective-C
@@ -194,6 +197,8 @@
 
 ### PHP
 
+* CodeIgniter Framework
+  * [CodeIgniter 2.1.3](http://php5.kiev.ua/codeigniter/)
 * [PHP: Правильный Путь](http://getjump.github.io/ru-php-the-right-way/)
 * [Руководство по PHP](http://docs.php.net/manual/ru/)
 * [Самоучитель (учебник) по PHP](http://www.php-s.ru/self-teacher/)
@@ -205,6 +210,11 @@
 * [Вглубь языка Python](http://ru.diveintopython.net/toc.html)
 * [Укус Питона](http://wombat.org.ua/AByteOfPython/) - Swaroop C H
 * [Учебник Python 2.6](http://ru.wikibooks.org/wiki/Учебник_Python_2.6)
+
+
+#### Django
+
+* [Руководство Django Girls](https://tutorial.djangogirls.org/ru/) (1.11) (HTML) (:construction: *in process*)
 
 
 ### PostgreSQL
@@ -271,8 +281,8 @@
 
 * [Beyond Linux From Scratch (version 2011-12-30)](http://rus-linux.net/nlib.php?name=/MyLDP/BOOKS/BLFS-ru/blfs-ru-index.html)
 * [Linux From Scratch (version 6.8)](http://rus-linux.net/nlib.php?name=/MyLDP/BOOKS/LFS-BOOK-6.8-ru/lfs-6.8-ru-index.html)
-* [Архитектура операционной системы Unix](http://lib.ru/BACH/)
-* [Введение в системное администрирование UNIX](http://lib.ru/unixhelp/) - Мошков. М
+* [Архитектура операционной системы Unix](http://lib.ru/BACH/) - Maurice J. Bach
+* [Введение в системное администрирование UNIX](http://lib.ru/unixhelp/) - Мошков Максим Евгеньевич
 
 
 ### Vim

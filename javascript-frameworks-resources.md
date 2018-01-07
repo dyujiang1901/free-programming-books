@@ -20,9 +20,14 @@
 * [egghead.io youtube channel: Learn AngularJS with Tutorial Videos & Training](https://www.youtube.com/user/johnlindquist)
 * [Learn AngularJS with free interactive lessons](http://www.learn-angular.org)
 * [Mastering AngularJS Directives](http://pascalprecht.github.io/slides/mastering-angularjs-directives/)
-* [Recipes with Angular.js](https://leanpub.com/recipes-with-angular-js/read) *(Leanpub, by Frederik Dietz)*
+* [Recipes with Angular.js](https://leanpub.com/recipes-with-angular-js/read) - Frederik Dietz *(Leanpub)*
 * [Seven-Part Introduction to Angular](http://ngokevin.com/blog/angular-1/)
 * [Unit Testing Best Practices in AngularJS](http://andyshora.com/unit-testing-best-practices-angularjs.html)
+
+
+## Angular
+
+* [Developing with Angular](https://leanpub.com/developing-with-angular/) - Denys Vuika *(Leanpub account required)* (:construction: *in process*)
 
 
 ## Aurelia
@@ -38,7 +43,7 @@
 * [Backbone.js + Require.js, Modularization and Just in Time Dependency Loading, part 1](http://developer.teradata.com/blog/jasonstrimpel/2011/12/part-1-backbone-js-require-js) [part 2](http://developer.teradata.com/blog/jasonstrimpel/2012/01/part-2-backbone-js-require-js-further-modularization-and-just-in-time-dep)
 * [Backbone.js and socket.io](http://developer.teradata.com/blog/jasonstrimpel/2011/11/backbone-js-and-socket-io)
 * [Backbonejs Tutorials](https://cdnjs.com/libraries/backbone.js/tutorials/)
-* [Building Single Page Web Apps with Backbone.js](https://singlepagebook.supportbee.com) (work in progress)
+* [Building Single Page Web Apps with Backbone.js](https://singlepagebook.supportbee.com) (:construction: *in process*)
 * [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
 * [Getting Started with Backbone.js](http://net.tutsplus.com/tutorials/javascript-ajax/getting-started-with-backbone-js/)
 * [How to share Backbone.js models with node.js](http://amirmalik.net/2010/11/27/how-to-share-backbonejs-models-with-nodejs)
@@ -116,12 +121,12 @@
 * [React Enlightenment](https://www.gitbook.com/book/frontendmasters/react-enlightenment/details)
 * [React In-depth: An exploration of UI development](https://www.gitbook.com/book/developmentarc/react-indepth/details)
 * [React Primer Draft](https://github.com/mikechau/react-primer-draft)
-* [React Tutorial](https://facebook.github.io/react/docs/tutorial.html)
+* [React Tutorial](https://reactjs.org/tutorial/tutorial.html)
 * React Tutorial by Josh Finnie
   * [Part 1](http://www.joshfinnie.com/blog/reactjs-tutorial-part-1/)
   * [Part 2](http://www.joshfinnie.com/blog/reactjs-tutorial-part-2/)
   * [Part 3](http://www.joshfinnie.com/blog/reactjs-tutorial-part-3/)
-* [React with ASP.NET 5 Tutorial](http://reactjs.net/getting-started/aspnet5.html)
+* [React with ASP.NET Core Tutorial](https://reactjs.net/getting-started/aspnetcore.html)
 * [React.js Fundamentals](http://courses.reactjsprogram.com/courses/reactjsfundamentals)
 * [React.js Tutorial: Now is Your Time to Try It, Right in Your Browser](https://codegeekz.com/react-js-tutorial/)
 * [Start Using React to Build Web Applications](https://egghead.io/courses/react-fundamentals)
